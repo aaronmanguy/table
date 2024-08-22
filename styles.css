@@ -1,0 +1,22 @@
+table,
+th,
+td {
+  border: 3px solid black;
+}
+
+th {
+  font-size: xx-large;
+  color: red;
+  background-color: lemonchiffon;
+  width: 100%;
+}
+
+tr {
+  background-color: aqua;
+}
+
+button {
+  font-size: large;
+  width: 150px;
+  height: 50px;
+}
